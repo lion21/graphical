@@ -34,7 +34,7 @@ TEAL=#388E8B
 /*center the web page*/
 /*center the pg*/
 #wrapper{
-width:960px;
+/*width:960px;*/
 margin:0 auto;
 }
 body{
