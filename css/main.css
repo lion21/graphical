@@ -47,7 +47,7 @@ background: linear-gradient(to top, rgba(47,134,118,0), rgba(47,134,118,1)); /* 
 }
 header{
 background-color:#4E4037;/*chocolate*/
-/*width:960px;*/
+width:960px;
 height:250px;
 padding:20px;
 }
