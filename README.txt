@@ -18,9 +18,6 @@ Profile Page Deployement
 
 								repos	
 
-
-
-
 		C. Set up your username and email ---git uses this info for every commit
 		
 		$git congig --global user.name "yourusername"
