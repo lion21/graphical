@@ -108,11 +108,4 @@ Susans-MacBook-Pro:graphicalGraffiti susantodd$
 	$commit -m 'fixed that problem'
 	$git push prodServer master	
 	$git remote add prodServer ssh://myusername @ xxxx.xxxx.xxxx.xxxx/var/repos/mobilDev.git
-	$enter your password
-
-
-
-
-
-
-								
+	$enter your passwd								
